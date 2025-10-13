@@ -4,6 +4,7 @@ import InputField from '@/components/forms/input_field';
 import { Button } from '@/components/ui/button';
 import React from 'react';
 import { useForm } from 'react-hook-form';
+throw new Error();
 
 const SignIn = () => {
   const {
